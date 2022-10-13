@@ -1,0 +1,8 @@
+.main {
+    padding: 25px 15px;
+}
+
+.movies-table{
+    min-height: 250px;
+    height: 100%;
+}
